@@ -5,8 +5,11 @@
 
 	<groupId>com.cmj</groupId>
 	<artifactId>cmj</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<version>1.0.0</version>
+	<modules>
+		<module>cmj-euraka</module>
+	</modules>
+	<packaging>pom</packaging>
 
 	<name>spring-boot-cloud-demo</name>
 	<description>cmj test object</description>
